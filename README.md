@@ -30,4 +30,4 @@ To run, run the following (assuming nodejs and npm is installed on machine):
 
 Here's what should come up in the browser:
 
-![alt text](https://github.com/[ehsu0268]/film-flam-solution/blob/master/front.jpg?raw=true)
+![alt text](https://github.com/ehsu0268/film-flam-solution/blob/master/front.jpg)
